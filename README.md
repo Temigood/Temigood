@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/illustration-data-analysis-graph_53876-18131.jpg?size=626&ext=jpg&ga=GA1.2.773955689.1682997214&semt=robertav1_2_sidr)](https://rishavchanda.io)
+[![MasterHead](https://thumbs.dreamstime.com/b/data-analysis-business-marketing-analytics-concept-big-data-internet-marketing-flat-design-vector-line-illustration-data-114218337.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Temidara Aiyeyemi</h1>
 <h3 align="center">A passionate Data Analyst from Nigeria.</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/data-inform-illustration-concept_114360-864.jpg?w=2000">
